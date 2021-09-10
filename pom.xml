@@ -48,7 +48,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://ihashmatullah@github.com/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/ihashmatullah/sfg-pet-clinic</url>
+        <connection>scm:git:https://github.com/ihashmatullah/sfg-pet-clinic.git</connection>
         <tag>sfg-pet-clinic-0.0.2</tag>
     </scm>
 
