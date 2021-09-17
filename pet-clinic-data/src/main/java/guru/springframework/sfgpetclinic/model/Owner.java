@@ -3,7 +3,7 @@ package guru.springframework.sfgpetclinic.model;
 import java.util.Set;
 
 /**
- * Created by HashmatN at 3:48 PM on Sep 09, 2021
+ * Created by HashmatN at 3:48 PM on Sep 09, 2021, new
  */
 public class Owner extends Person {
   private Set<Pet> pets;
